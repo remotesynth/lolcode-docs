@@ -1,8 +1,7 @@
 ---
 title: LOLCODE
 ---
-
-![LOLCODE](/images/lolcode.png)
+![LOLCODE](/images/lolcode.png "khkjhjk")
 
 # LOLCODE
 
